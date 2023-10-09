@@ -11,7 +11,7 @@ body{
     box-sizing: border-box;
 }
 .effect{
-    background-image: url("back-image.jpg");
+    background-image: url("Burger.jpg");
     height: 80vh;
     background-position: center;
     background-repeat: no-repeat;
